@@ -36,7 +36,7 @@ const b = {
 
 console.log(conkat(a, b));
 
-// -> { first_name: 'Vu', last_name: 'Vu' }
+// -> { first_name: 'Vu', last_name: 'Tran' }
 ```
 
 ### Merge ES2015 Sets
