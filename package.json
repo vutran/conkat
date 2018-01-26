@@ -1,0 +1,19 @@
+{
+    "name": "conkat",
+    "version": "0.0.0",
+    "description": "Merge arrays, object, maps, and sets",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:vutran/conkat.git"
+    },
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "keywords": [],
+    "author": "Vu Tran <vu@vu-tran.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^22.1.4"
+    }
+}
